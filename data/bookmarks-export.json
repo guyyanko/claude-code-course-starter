@@ -1,0 +1,1608 @@
+{
+  "format": "netscape-bookmarks-json",
+  "exportedFrom": "Browser 131",
+  "exportedAt": "2026-11-01T09:12:00Z",
+  "count": 200,
+  "bookmarks": [
+    {
+      "guid": "bm-0001",
+      "title": "The case against web performance",
+      "uri": "https://supabase.com/web-performance-1",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-08-26T01:00:00Z",
+      "visitCount": 9
+    },
+    {
+      "guid": "bm-0002",
+      "title": "Understanding database indexes",
+      "uri": "https://web.dev/database-indexes-2",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-08-20T20:00:00Z",
+      "visitCount": 33
+    },
+    {
+      "guid": "bm-0003",
+      "title": "Getting started with TypeScript generics",
+      "uri": "https://www.medium.com/typescript-generics-3?utm_source=rss&utm_medium=email",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-11-22T01:00:00Z",
+      "visitCount": 10
+    },
+    {
+      "guid": "bm-0004",
+      "title": "A guide to error boundaries",
+      "uri": "https://stackoverflow.com/error-boundaries-4",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-06-08T16:00:00Z",
+      "visitCount": 34
+    },
+    {
+      "guid": "bm-0005",
+      "title": "Getting started with git rebase",
+      "uri": "https://github.com/git-rebase-5?utm_source=rss&utm_medium=email",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-02-26T00:00:00Z",
+      "visitCount": 6
+    },
+    {
+      "guid": "bm-0006",
+      "title": "Getting started with pagination",
+      "uri": "https://news.ycombinator.com/pagination-6?utm_source=newsletter&utm_medium=social",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-07-21T06:00:00Z",
+      "visitCount": 3
+    },
+    {
+      "guid": "bm-0007",
+      "title": "Notes on pagination",
+      "uri": "https://developer.mozilla.org/pagination-7",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-09-07T03:00:00Z",
+      "visitCount": 14
+    },
+    {
+      "guid": "bm-0008",
+      "title": "Understanding error boundaries",
+      "uri": "https://react.dev/error-boundaries-8",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-05-12T18:00:00Z",
+      "visitCount": 17
+    },
+    {
+      "guid": "bm-0009",
+      "title": "A practical look at git rebase",
+      "uri": "https://smashingmagazine.com/git-rebase-9?utm_source=rss&utm_medium=social",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-07-22T07:00:00Z",
+      "visitCount": 21
+    },
+    {
+      "guid": "bm-0010",
+      "title": "A guide to database indexes",
+      "uri": "https://stackoverflow.com/database-indexes-10",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-07-24T02:00:00Z",
+      "visitCount": 3
+    },
+    {
+      "guid": "bm-0011",
+      "title": "Rethinking git rebase",
+      "uri": "https://medium.com/git-rebase-11",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-09-14T10:00:00Z",
+      "visitCount": 2
+    },
+    {
+      "guid": "bm-0012",
+      "title": "A guide to pagination",
+      "uri": "https://www.supabase.com/pagination-12",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-06-20T22:00:00Z",
+      "visitCount": 1
+    },
+    {
+      "guid": "bm-0013",
+      "title": "Ten mistakes with pagination",
+      "uri": "https://supabase.com/pagination-13",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-07-18T05:00:00Z",
+      "visitCount": 3
+    },
+    {
+      "guid": "bm-0014",
+      "title": "The case against edge caching",
+      "uri": "https://overreacted.io/edge-caching-14",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-03-18T06:00:00Z",
+      "visitCount": 2
+    },
+    {
+      "guid": "bm-0015",
+      "title": "The case against error boundaries",
+      "uri": "https://css-tricks.com/error-boundaries-15",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-03-18T05:00:00Z",
+      "visitCount": 7
+    },
+    {
+      "guid": "bm-0016",
+      "title": "Understanding TypeScript generics",
+      "uri": "https://www.kentcdodds.com/typescript-generics-16?utm_source=rss&utm_medium=email",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-03-02T20:00:00Z",
+      "visitCount": 2
+    },
+    {
+      "guid": "bm-0017",
+      "title": "A practical look at feature flags",
+      "uri": "https://overreacted.io/feature-flags-17?utm_source=rss&utm_medium=email",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-07-11T09:00:00Z",
+      "visitCount": 12
+    },
+    {
+      "guid": "bm-0018",
+      "title": "A guide to image optimization",
+      "uri": "https://www.a11yproject.com/image-optimization-18",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-05-26T13:00:00Z",
+      "visitCount": 35
+    },
+    {
+      "guid": "bm-0019",
+      "title": "Understanding git rebase",
+      "uri": "https://github.com/git-rebase-19",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-01-25T16:00:00Z",
+      "visitCount": 24
+    },
+    {
+      "guid": "bm-0020",
+      "title": "Getting started with git rebase",
+      "uri": "https://medium.com/git-rebase-20",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-01-19T04:00:00Z",
+      "visitCount": 0
+    },
+    {
+      "guid": "bm-0021",
+      "title": "Rethinking accessible forms",
+      "uri": "https://www.css-tricks.com/accessible-forms-21",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-02-03T03:00:00Z",
+      "visitCount": 33
+    },
+    {
+      "guid": "bm-0022",
+      "title": "Understanding feature flags",
+      "uri": "https://kentcdodds.com/feature-flags-22",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-08-11T09:00:00Z",
+      "visitCount": 0
+    },
+    {
+      "guid": "bm-0023",
+      "title": "Rethinking state management",
+      "uri": "https://developer.mozilla.org/state-management-23?utm_source=twitter&utm_medium=social",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-09-05T10:00:00Z",
+      "visitCount": 28
+    },
+    {
+      "guid": "bm-0024",
+      "title": "Getting started with accessible forms",
+      "uri": "https://www.martinfowler.com/accessible-forms-24",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-05-24T23:00:00Z",
+      "visitCount": 20
+    },
+    {
+      "guid": "bm-0025",
+      "title": "Deep dive: feature flags",
+      "uri": "https://www.developer.mozilla.org/feature-flags-25",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-08-17T07:00:00Z",
+      "visitCount": 13
+    },
+    {
+      "guid": "bm-0026",
+      "title": "Ten mistakes with accessible forms",
+      "uri": "https://smashingmagazine.com/accessible-forms-26",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-03-05T10:00:00Z",
+      "visitCount": 4
+    },
+    {
+      "guid": "bm-0027",
+      "title": "Getting started with image optimization",
+      "uri": "https://overreacted.io/image-optimization-27",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-01-24T09:00:00Z",
+      "visitCount": 3
+    },
+    {
+      "guid": "bm-0028",
+      "title": "Rethinking pagination",
+      "uri": "https://typescriptlang.org/pagination-28",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-03-28T14:00:00Z",
+      "visitCount": 2
+    },
+    {
+      "guid": "bm-0029",
+      "title": "Rethinking image optimization",
+      "uri": "https://www.typescriptlang.org/image-optimization-29",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-02-02T15:00:00Z",
+      "visitCount": 21
+    },
+    {
+      "guid": "bm-0030",
+      "title": "Rethinking API design",
+      "uri": "https://news.ycombinator.com/api-design-30",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-03-06T17:00:00Z",
+      "visitCount": 36
+    },
+    {
+      "guid": "bm-0031",
+      "title": "Getting started with rate limiting",
+      "uri": "https://dev.to/rate-limiting-31?utm_source=rss&utm_medium=email",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-02-28T07:00:00Z",
+      "visitCount": 21
+    },
+    {
+      "guid": "bm-0032",
+      "title": "A practical look at pagination",
+      "uri": "https://developer.mozilla.org/pagination-32",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-04-10T06:00:00Z",
+      "visitCount": 29
+    },
+    {
+      "guid": "bm-0033",
+      "title": "Notes on monorepos",
+      "uri": "https://kentcdodds.com/monorepos-33",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-04-06T06:00:00Z",
+      "visitCount": 38
+    },
+    {
+      "guid": "bm-0034",
+      "title": "Understanding database indexes",
+      "uri": "https://nodejs.org/database-indexes-34",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-07-25T16:00:00Z",
+      "visitCount": 5
+    },
+    {
+      "guid": "bm-0035",
+      "title": "Why we moved to monorepos",
+      "uri": "https://www.kentcdodds.com/monorepos-35",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-09-01T02:00:00Z",
+      "visitCount": 39
+    },
+    {
+      "guid": "bm-0036",
+      "title": "Understanding edge caching",
+      "uri": "https://web.dev/edge-caching-36",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-04-17T19:00:00Z",
+      "visitCount": 1
+    },
+    {
+      "guid": "bm-0037",
+      "title": "Understanding web performance",
+      "uri": "https://joshwcomeau.com/web-performance-37",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-09-06T15:00:00Z",
+      "visitCount": 36
+    },
+    {
+      "guid": "bm-0038",
+      "title": "A guide to rate limiting",
+      "uri": "https://medium.com/rate-limiting-38",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-02-25T01:00:00Z",
+      "visitCount": 30
+    },
+    {
+      "guid": "bm-0039",
+      "title": "Getting started with TypeScript generics",
+      "uri": "https://www.medium.com/typescript-generics-39",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-09-25T18:00:00Z",
+      "visitCount": 11
+    },
+    {
+      "guid": "bm-0040",
+      "title": "A guide to code review",
+      "uri": "https://overreacted.io/code-review-40",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-05-13T16:00:00Z",
+      "visitCount": 30
+    },
+    {
+      "guid": "bm-0041",
+      "title": "A guide to code review",
+      "uri": "https://nodejs.org/code-review-41?utm_source=twitter&utm_medium=social",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-04-25T16:00:00Z",
+      "visitCount": 3
+    },
+    {
+      "guid": "bm-0042",
+      "title": "Deep dive: auth flows",
+      "uri": "https://medium.com/auth-flows-42",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-11-26T08:00:00Z",
+      "visitCount": 4
+    },
+    {
+      "guid": "bm-0043",
+      "title": "A guide to web performance",
+      "uri": "https://joshwcomeau.com/web-performance-43",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-05-28T23:00:00Z",
+      "visitCount": 34
+    },
+    {
+      "guid": "bm-0044",
+      "title": "Why we moved to web performance",
+      "uri": "https://dev.to/web-performance-44",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-02-15T06:00:00Z",
+      "visitCount": 37
+    },
+    {
+      "guid": "bm-0045",
+      "title": "Ten mistakes with pagination",
+      "uri": "https://nextjs.org/pagination-45",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-05-18T10:00:00Z",
+      "visitCount": 2
+    },
+    {
+      "guid": "bm-0046",
+      "title": "Understanding TypeScript generics",
+      "uri": "https://smashingmagazine.com/typescript-generics-46",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-03-05T04:00:00Z",
+      "visitCount": 33
+    },
+    {
+      "guid": "bm-0047",
+      "title": "The case against state management",
+      "uri": "https://dev.to/state-management-47?utm_source=rss&utm_medium=email",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-05-24T19:00:00Z",
+      "visitCount": 30
+    },
+    {
+      "guid": "bm-0048",
+      "title": "The case against error boundaries",
+      "uri": "https://kentcdodds.com/error-boundaries-48",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-10-15T04:00:00Z",
+      "visitCount": 10
+    },
+    {
+      "guid": "bm-0049",
+      "title": "Ten mistakes with accessible forms",
+      "uri": "https://www.vercel.com/accessible-forms-49",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-02-26T16:00:00Z",
+      "visitCount": 33
+    },
+    {
+      "guid": "bm-0050",
+      "title": "A guide to monorepos",
+      "uri": "https://joshwcomeau.com/monorepos-50",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-02-02T22:00:00Z",
+      "visitCount": 34
+    },
+    {
+      "guid": "bm-0051",
+      "title": "Getting started with web performance",
+      "uri": "https://joshwcomeau.com/web-performance-51",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-01-26T12:00:00Z",
+      "visitCount": 19
+    },
+    {
+      "guid": "bm-0052",
+      "title": "Deep dive: web performance",
+      "uri": "https://joshwcomeau.com/web-performance-52",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-09-19T20:00:00Z",
+      "visitCount": 7
+    },
+    {
+      "guid": "bm-0053",
+      "title": "Deep dive: image optimization",
+      "uri": "https://www.nextjs.org/image-optimization-53",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-07-27T07:00:00Z",
+      "visitCount": 25
+    },
+    {
+      "guid": "bm-0054",
+      "title": "Notes on state management",
+      "uri": "https://dev.to/state-management-54?utm_source=rss&utm_medium=email",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-07-28T18:00:00Z",
+      "visitCount": 5
+    },
+    {
+      "guid": "bm-0055",
+      "title": "Getting started with dark mode",
+      "uri": "https://a11yproject.com/dark-mode-55?utm_source=newsletter&utm_medium=social",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-07-18T03:00:00Z",
+      "visitCount": 27
+    },
+    {
+      "guid": "bm-0056",
+      "title": "Ten mistakes with monorepos",
+      "uri": "https://joshwcomeau.com/monorepos-56",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-06-16T14:00:00Z",
+      "visitCount": 29
+    },
+    {
+      "guid": "bm-0057",
+      "title": "A practical look at dark mode",
+      "uri": "https://smashingmagazine.com/dark-mode-57",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-09-09T01:00:00Z",
+      "visitCount": 18
+    },
+    {
+      "guid": "bm-0058",
+      "title": "A guide to server components",
+      "uri": "https://stackoverflow.com/server-components-58?utm_source=rss&utm_medium=social",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-11-13T09:00:00Z",
+      "visitCount": 31
+    },
+    {
+      "guid": "bm-0059",
+      "title": "Ten mistakes with edge caching",
+      "uri": "https://stackoverflow.com/edge-caching-59",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-05-26T12:00:00Z",
+      "visitCount": 7
+    },
+    {
+      "guid": "bm-0060",
+      "title": "A practical look at accessible forms",
+      "uri": "https://martinfowler.com/accessible-forms-60",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-08-04T08:00:00Z",
+      "visitCount": 5
+    },
+    {
+      "guid": "bm-0061",
+      "title": "Notes on error boundaries",
+      "uri": "https://github.com/error-boundaries-61",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-06-25T19:00:00Z",
+      "visitCount": 9
+    },
+    {
+      "guid": "bm-0062",
+      "title": "Rethinking git rebase",
+      "uri": "https://developer.mozilla.org/git-rebase-62?utm_source=rss&utm_medium=social",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-03-08T16:00:00Z",
+      "visitCount": 1
+    },
+    {
+      "guid": "bm-0063",
+      "title": "Ten mistakes with server components",
+      "uri": "https://web.dev/server-components-63",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-01-01T23:00:00Z",
+      "visitCount": 29
+    },
+    {
+      "guid": "bm-0064",
+      "title": "Notes on TypeScript generics",
+      "uri": "https://vercel.com/typescript-generics-64",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-06-23T23:00:00Z",
+      "visitCount": 7
+    },
+    {
+      "guid": "bm-0065",
+      "title": "Understanding CSS grid",
+      "uri": "https://a11yproject.com/css-grid-65?utm_source=twitter&utm_medium=email",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-10-07T23:00:00Z",
+      "visitCount": 5
+    },
+    {
+      "guid": "bm-0066",
+      "title": "Deep dive: feature flags",
+      "uri": "https://dev.to/feature-flags-66?utm_source=twitter&utm_medium=email",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-06-20T10:00:00Z",
+      "visitCount": 36
+    },
+    {
+      "guid": "bm-0067",
+      "title": "Understanding TypeScript generics",
+      "uri": "https://vercel.com/typescript-generics-67?utm_source=twitter&utm_medium=email",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-11-26T04:00:00Z",
+      "visitCount": 13
+    },
+    {
+      "guid": "bm-0068",
+      "title": "Rethinking rate limiting",
+      "uri": "https://web.dev/rate-limiting-68?utm_source=twitter&utm_medium=email",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-06-22T21:00:00Z",
+      "visitCount": 6
+    },
+    {
+      "guid": "bm-0069",
+      "title": "Understanding server components",
+      "uri": "https://developer.mozilla.org/server-components-69?utm_source=twitter&utm_medium=social",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-09-16T01:00:00Z",
+      "visitCount": 20
+    },
+    {
+      "guid": "bm-0070",
+      "title": "A guide to auth flows",
+      "uri": "https://nextjs.org/auth-flows-70",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-05-01T07:00:00Z",
+      "visitCount": 34
+    },
+    {
+      "guid": "bm-0071",
+      "title": "Getting started with error boundaries",
+      "uri": "https://react.dev/error-boundaries-71",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-02-10T00:00:00Z",
+      "visitCount": 2
+    },
+    {
+      "guid": "bm-0072",
+      "title": "A guide to TypeScript generics",
+      "uri": "https://joshwcomeau.com/typescript-generics-72",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-01-02T09:00:00Z",
+      "visitCount": 27
+    },
+    {
+      "guid": "bm-0073",
+      "title": "A guide to git rebase",
+      "uri": "https://kentcdodds.com/git-rebase-73?utm_source=rss&utm_medium=social",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-10-05T07:00:00Z",
+      "visitCount": 31
+    },
+    {
+      "guid": "bm-0074",
+      "title": "Rethinking monorepos",
+      "uri": "https://stackoverflow.com/monorepos-74",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-11-27T15:00:00Z",
+      "visitCount": 24
+    },
+    {
+      "guid": "bm-0075",
+      "title": "Notes on git rebase",
+      "uri": "https://a11yproject.com/git-rebase-75?utm_source=newsletter&utm_medium=social",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-02-09T12:00:00Z",
+      "visitCount": 7
+    },
+    {
+      "guid": "bm-0076",
+      "title": "Deep dive: state management",
+      "uri": "https://www.smashingmagazine.com/state-management-76",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-02-23T10:00:00Z",
+      "visitCount": 0
+    },
+    {
+      "guid": "bm-0077",
+      "title": "A guide to auth flows",
+      "uri": "https://typescriptlang.org/auth-flows-77",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-09-01T13:00:00Z",
+      "visitCount": 36
+    },
+    {
+      "guid": "bm-0078",
+      "title": "Rethinking TypeScript generics",
+      "uri": "https://nodejs.org/typescript-generics-78?utm_source=twitter&utm_medium=social",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-11-22T18:00:00Z",
+      "visitCount": 12
+    },
+    {
+      "guid": "bm-0079",
+      "title": "A guide to pagination",
+      "uri": "https://news.ycombinator.com/pagination-79",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-04-11T01:00:00Z",
+      "visitCount": 16
+    },
+    {
+      "guid": "bm-0080",
+      "title": "Getting started with accessible forms",
+      "uri": "https://stackoverflow.com/accessible-forms-80",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-11-25T04:00:00Z",
+      "visitCount": 36
+    },
+    {
+      "guid": "bm-0081",
+      "title": "Getting started with pagination",
+      "uri": "https://nodejs.org/pagination-81",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-11-16T01:00:00Z",
+      "visitCount": 32
+    },
+    {
+      "guid": "bm-0082",
+      "title": "A practical look at error boundaries",
+      "uri": "https://dev.to/error-boundaries-82?utm_source=twitter&utm_medium=social",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-08-19T15:00:00Z",
+      "visitCount": 7
+    },
+    {
+      "guid": "bm-0083",
+      "title": "Understanding monorepos",
+      "uri": "https://www.github.com/monorepos-83?utm_source=newsletter&utm_medium=email",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-03-07T13:00:00Z",
+      "visitCount": 34
+    },
+    {
+      "guid": "bm-0084",
+      "title": "A practical look at state management",
+      "uri": "https://dev.to/state-management-84?utm_source=newsletter&utm_medium=email",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-03-15T11:00:00Z",
+      "visitCount": 14
+    },
+    {
+      "guid": "bm-0085",
+      "title": "Why we moved to CSS grid",
+      "uri": "https://web.dev/css-grid-85?utm_source=newsletter&utm_medium=email",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-06-03T01:00:00Z",
+      "visitCount": 11
+    },
+    {
+      "guid": "bm-0086",
+      "title": "Rethinking testing hooks",
+      "uri": "https://smashingmagazine.com/testing-hooks-86",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-01-10T21:00:00Z",
+      "visitCount": 22
+    },
+    {
+      "guid": "bm-0087",
+      "title": "A guide to CSS grid",
+      "uri": "https://nodejs.org/css-grid-87",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-08-02T17:00:00Z",
+      "visitCount": 3
+    },
+    {
+      "guid": "bm-0088",
+      "title": "A guide to monorepos",
+      "uri": "https://kentcdodds.com/monorepos-88",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-06-03T00:00:00Z",
+      "visitCount": 30
+    },
+    {
+      "guid": "bm-0089",
+      "title": "Notes on pagination",
+      "uri": "https://css-tricks.com/pagination-89",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-02-09T18:00:00Z",
+      "visitCount": 19
+    },
+    {
+      "guid": "bm-0090",
+      "title": "Why we moved to accessible forms",
+      "uri": "https://stackoverflow.com/accessible-forms-90",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-11-11T06:00:00Z",
+      "visitCount": 14
+    },
+    {
+      "guid": "bm-0091",
+      "title": "The case against git rebase",
+      "uri": "https://developer.mozilla.org/git-rebase-91?utm_source=rss&utm_medium=social",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-04-08T18:00:00Z",
+      "visitCount": 1
+    },
+    {
+      "guid": "bm-0092",
+      "title": "A practical look at CSS grid",
+      "uri": "https://www.dev.to/css-grid-92",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-01-02T18:00:00Z",
+      "visitCount": 17
+    },
+    {
+      "guid": "bm-0093",
+      "title": "Ten mistakes with web performance",
+      "uri": "https://smashingmagazine.com/web-performance-93?utm_source=twitter&utm_medium=email",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-06-13T23:00:00Z",
+      "visitCount": 24
+    },
+    {
+      "guid": "bm-0094",
+      "title": "A guide to database indexes",
+      "uri": "https://smashingmagazine.com/database-indexes-94",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-02-17T13:00:00Z",
+      "visitCount": 2
+    },
+    {
+      "guid": "bm-0095",
+      "title": "The case against pagination",
+      "uri": "https://github.com/pagination-95?utm_source=twitter&utm_medium=social",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-09-28T02:00:00Z",
+      "visitCount": 25
+    },
+    {
+      "guid": "bm-0096",
+      "title": "A guide to server components",
+      "uri": "https://news.ycombinator.com/server-components-96",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-11-04T16:00:00Z",
+      "visitCount": 28
+    },
+    {
+      "guid": "bm-0097",
+      "title": "Ten mistakes with image optimization",
+      "uri": "https://www.nextjs.org/image-optimization-97",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-02-14T04:00:00Z",
+      "visitCount": 23
+    },
+    {
+      "guid": "bm-0098",
+      "title": "Deep dive: CSS grid",
+      "uri": "https://react.dev/css-grid-98",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-06-26T23:00:00Z",
+      "visitCount": 24
+    },
+    {
+      "guid": "bm-0099",
+      "title": "Why we moved to git rebase",
+      "uri": "https://news.ycombinator.com/git-rebase-99?utm_source=twitter&utm_medium=email",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-09-03T08:00:00Z",
+      "visitCount": 31
+    },
+    {
+      "guid": "bm-0100",
+      "title": "Understanding CSS grid",
+      "uri": "https://joshwcomeau.com/css-grid-100",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-03-13T10:00:00Z",
+      "visitCount": 22
+    },
+    {
+      "guid": "bm-0101",
+      "title": "Getting started with monorepos",
+      "uri": "https://www.news.ycombinator.com/monorepos-101?utm_source=rss&utm_medium=social",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-03-13T03:00:00Z",
+      "visitCount": 19
+    },
+    {
+      "guid": "bm-0102",
+      "title": "Understanding image optimization",
+      "uri": "https://web.dev/image-optimization-102",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-03-01T18:00:00Z",
+      "visitCount": 20
+    },
+    {
+      "guid": "bm-0103",
+      "title": "A guide to monorepos",
+      "uri": "https://a11yproject.com/monorepos-103",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-05-20T19:00:00Z",
+      "visitCount": 31
+    },
+    {
+      "guid": "bm-0104",
+      "title": "The case against web performance",
+      "uri": "https://www.vercel.com/web-performance-104?utm_source=twitter&utm_medium=social",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-03-04T04:00:00Z",
+      "visitCount": 28
+    },
+    {
+      "guid": "bm-0105",
+      "title": "A practical look at CSS grid",
+      "uri": "https://dev.to/css-grid-105?utm_source=twitter&utm_medium=social",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-10-01T06:00:00Z",
+      "visitCount": 12
+    },
+    {
+      "guid": "bm-0106",
+      "title": "Notes on error boundaries",
+      "uri": "https://martinfowler.com/error-boundaries-106",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-11-10T08:00:00Z",
+      "visitCount": 12
+    },
+    {
+      "guid": "bm-0107",
+      "title": "The case against auth flows",
+      "uri": "https://nodejs.org/auth-flows-107",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-01-20T09:00:00Z",
+      "visitCount": 30
+    },
+    {
+      "guid": "bm-0108",
+      "title": "Notes on rate limiting",
+      "uri": "https://www.vercel.com/rate-limiting-108",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-07-25T00:00:00Z",
+      "visitCount": 5
+    },
+    {
+      "guid": "bm-0109",
+      "title": "Understanding web performance",
+      "uri": "https://nodejs.org/web-performance-109",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-08-02T03:00:00Z",
+      "visitCount": 19
+    },
+    {
+      "guid": "bm-0110",
+      "title": "Getting started with API design",
+      "uri": "https://a11yproject.com/api-design-110",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-11-09T17:00:00Z",
+      "visitCount": 1
+    },
+    {
+      "guid": "bm-0111",
+      "title": "Why we moved to testing hooks",
+      "uri": "https://css-tricks.com/testing-hooks-111",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-08-25T04:00:00Z",
+      "visitCount": 37
+    },
+    {
+      "guid": "bm-0112",
+      "title": "Getting started with web performance",
+      "uri": "https://www.kentcdodds.com/web-performance-112",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-08-28T04:00:00Z",
+      "visitCount": 27
+    },
+    {
+      "guid": "bm-0113",
+      "title": "Understanding pagination",
+      "uri": "https://react.dev/pagination-113?utm_source=newsletter&utm_medium=email",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-06-14T03:00:00Z",
+      "visitCount": 0
+    },
+    {
+      "guid": "bm-0114",
+      "title": "Rethinking monorepos",
+      "uri": "https://developer.mozilla.org/monorepos-114",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-04-24T06:00:00Z",
+      "visitCount": 19
+    },
+    {
+      "guid": "bm-0115",
+      "title": "A practical look at auth flows",
+      "uri": "https://stackoverflow.com/auth-flows-115?utm_source=newsletter&utm_medium=email",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-10-28T13:00:00Z",
+      "visitCount": 5
+    },
+    {
+      "guid": "bm-0116",
+      "title": "Notes on image optimization",
+      "uri": "https://github.com/image-optimization-116",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-11-06T00:00:00Z",
+      "visitCount": 37
+    },
+    {
+      "guid": "bm-0117",
+      "title": "Ten mistakes with edge caching",
+      "uri": "https://kentcdodds.com/edge-caching-117?utm_source=newsletter&utm_medium=email",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-01-04T15:00:00Z",
+      "visitCount": 8
+    },
+    {
+      "guid": "bm-0118",
+      "title": "Understanding server components",
+      "uri": "https://github.com/server-components-118?utm_source=twitter&utm_medium=social",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-05-18T00:00:00Z",
+      "visitCount": 24
+    },
+    {
+      "guid": "bm-0119",
+      "title": "The case against image optimization",
+      "uri": "https://www.web.dev/image-optimization-119?utm_source=rss&utm_medium=social",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-10-24T06:00:00Z",
+      "visitCount": 25
+    },
+    {
+      "guid": "bm-0120",
+      "title": "The case against image optimization",
+      "uri": "https://dev.to/image-optimization-120",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-06-25T17:00:00Z",
+      "visitCount": 12
+    },
+    {
+      "guid": "bm-0121",
+      "title": "Understanding edge caching",
+      "uri": "https://medium.com/edge-caching-121?utm_source=newsletter&utm_medium=email",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-11-24T10:00:00Z",
+      "visitCount": 17
+    },
+    {
+      "guid": "bm-0122",
+      "title": "Rethinking API design",
+      "uri": "https://overreacted.io/api-design-122?utm_source=twitter&utm_medium=social",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-03-20T05:00:00Z",
+      "visitCount": 12
+    },
+    {
+      "guid": "bm-0123",
+      "title": "Getting started with API design",
+      "uri": "https://vercel.com/api-design-123?utm_source=newsletter&utm_medium=email",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-01-04T20:00:00Z",
+      "visitCount": 1
+    },
+    {
+      "guid": "bm-0124",
+      "title": "A practical look at accessible forms",
+      "uri": "https://martinfowler.com/accessible-forms-124?utm_source=rss&utm_medium=social",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-07-06T03:00:00Z",
+      "visitCount": 5
+    },
+    {
+      "guid": "bm-0125",
+      "title": "Understanding dark mode",
+      "uri": "https://typescriptlang.org/dark-mode-125",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-03-13T08:00:00Z",
+      "visitCount": 34
+    },
+    {
+      "guid": "bm-0126",
+      "title": "The case against rate limiting",
+      "uri": "https://a11yproject.com/rate-limiting-126",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-09-07T18:00:00Z",
+      "visitCount": 33
+    },
+    {
+      "guid": "bm-0127",
+      "title": "Deep dive: web performance",
+      "uri": "https://supabase.com/web-performance-127",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-01-06T09:00:00Z",
+      "visitCount": 0
+    },
+    {
+      "guid": "bm-0128",
+      "title": "A guide to TypeScript generics",
+      "uri": "https://joshwcomeau.com/typescript-generics-128?utm_source=newsletter&utm_medium=email",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-04-12T12:00:00Z",
+      "visitCount": 30
+    },
+    {
+      "guid": "bm-0129",
+      "title": "A guide to image optimization",
+      "uri": "https://medium.com/image-optimization-129?utm_source=twitter&utm_medium=email",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-06-14T15:00:00Z",
+      "visitCount": 2
+    },
+    {
+      "guid": "bm-0130",
+      "title": "Understanding web performance",
+      "uri": "https://medium.com/web-performance-130",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-10-15T08:00:00Z",
+      "visitCount": 28
+    },
+    {
+      "guid": "bm-0131",
+      "title": "A practical look at testing hooks",
+      "uri": "https://medium.com/testing-hooks-131",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-11-19T17:00:00Z",
+      "visitCount": 31
+    },
+    {
+      "guid": "bm-0132",
+      "title": "Getting started with database indexes",
+      "uri": "https://www.github.com/database-indexes-132",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-01-17T20:00:00Z",
+      "visitCount": 8
+    },
+    {
+      "guid": "bm-0133",
+      "title": "Deep dive: web performance",
+      "uri": "https://www.github.com/web-performance-133",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-03-25T05:00:00Z",
+      "visitCount": 6
+    },
+    {
+      "guid": "bm-0134",
+      "title": "Getting started with dark mode",
+      "uri": "https://web.dev/dark-mode-134?utm_source=rss&utm_medium=social",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-04-20T18:00:00Z",
+      "visitCount": 31
+    },
+    {
+      "guid": "bm-0135",
+      "title": "Why we moved to edge caching",
+      "uri": "https://dev.to/edge-caching-135?utm_source=twitter&utm_medium=social",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-05-21T13:00:00Z",
+      "visitCount": 33
+    },
+    {
+      "guid": "bm-0136",
+      "title": "Getting started with state management",
+      "uri": "https://kentcdodds.com/state-management-136",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-10-14T10:00:00Z",
+      "visitCount": 8
+    },
+    {
+      "guid": "bm-0137",
+      "title": "Understanding code review",
+      "uri": "https://news.ycombinator.com/code-review-137?utm_source=rss&utm_medium=social",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-11-23T16:00:00Z",
+      "visitCount": 10
+    },
+    {
+      "guid": "bm-0138",
+      "title": "Understanding testing hooks",
+      "uri": "https://www.react.dev/testing-hooks-138",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-06-04T06:00:00Z",
+      "visitCount": 26
+    },
+    {
+      "guid": "bm-0139",
+      "title": "Notes on feature flags",
+      "uri": "https://medium.com/feature-flags-139?utm_source=rss&utm_medium=email",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-07-06T14:00:00Z",
+      "visitCount": 39
+    },
+    {
+      "guid": "bm-0140",
+      "title": "A guide to state management",
+      "uri": "https://github.com/state-management-140",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-06-28T07:00:00Z",
+      "visitCount": 29
+    },
+    {
+      "guid": "bm-0141",
+      "title": "A guide to monorepos",
+      "uri": "https://medium.com/monorepos-141",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-02-24T18:00:00Z",
+      "visitCount": 4
+    },
+    {
+      "guid": "bm-0142",
+      "title": "Understanding state management",
+      "uri": "https://typescriptlang.org/state-management-142",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-07-09T12:00:00Z",
+      "visitCount": 31
+    },
+    {
+      "guid": "bm-0143",
+      "title": "The case against error boundaries",
+      "uri": "https://developer.mozilla.org/error-boundaries-143",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-04-18T07:00:00Z",
+      "visitCount": 34
+    },
+    {
+      "guid": "bm-0144",
+      "title": "Notes on TypeScript generics",
+      "uri": "https://medium.com/typescript-generics-144",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-02-12T16:00:00Z",
+      "visitCount": 2
+    },
+    {
+      "guid": "bm-0145",
+      "title": "A practical look at git rebase",
+      "uri": "https://nextjs.org/git-rebase-145?utm_source=twitter&utm_medium=email",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-08-25T06:00:00Z",
+      "visitCount": 21
+    },
+    {
+      "guid": "bm-0146",
+      "title": "Notes on git rebase",
+      "uri": "https://www.typescriptlang.org/git-rebase-146?utm_source=rss&utm_medium=social",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-02-08T03:00:00Z",
+      "visitCount": 22
+    },
+    {
+      "guid": "bm-0147",
+      "title": "Getting started with edge caching",
+      "uri": "https://developer.mozilla.org/edge-caching-147",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-07-18T15:00:00Z",
+      "visitCount": 21
+    },
+    {
+      "guid": "bm-0148",
+      "title": "Understanding CSS grid",
+      "uri": "https://www.dev.to/css-grid-148?utm_source=newsletter&utm_medium=social",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-01-14T13:00:00Z",
+      "visitCount": 0
+    },
+    {
+      "guid": "bm-0149",
+      "title": "Understanding web performance",
+      "uri": "https://martinfowler.com/web-performance-149",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-08-11T16:00:00Z",
+      "visitCount": 8
+    },
+    {
+      "guid": "bm-0150",
+      "title": "A practical look at accessible forms",
+      "uri": "https://css-tricks.com/accessible-forms-150",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-04-06T07:00:00Z",
+      "visitCount": 31
+    },
+    {
+      "guid": "bm-0151",
+      "title": "Getting started with server components",
+      "uri": "https://dev.to/server-components-151",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-09-05T13:00:00Z",
+      "visitCount": 36
+    },
+    {
+      "guid": "bm-0152",
+      "title": "Deep dive: feature flags",
+      "uri": "https://martinfowler.com/feature-flags-152",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-05-20T10:00:00Z",
+      "visitCount": 8
+    },
+    {
+      "guid": "bm-0153",
+      "title": "Rethinking code review",
+      "uri": "https://stackoverflow.com/code-review-153",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-05-02T07:00:00Z",
+      "visitCount": 34
+    },
+    {
+      "guid": "bm-0154",
+      "title": "The case against feature flags",
+      "uri": "https://css-tricks.com/feature-flags-154",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-03-05T05:00:00Z",
+      "visitCount": 1
+    },
+    {
+      "guid": "bm-0155",
+      "title": "A guide to dark mode",
+      "uri": "https://news.ycombinator.com/dark-mode-155?utm_source=rss&utm_medium=email",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-03-25T15:00:00Z",
+      "visitCount": 38
+    },
+    {
+      "guid": "bm-0156",
+      "title": "Ten mistakes with server components",
+      "uri": "https://overreacted.io/server-components-156",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-09-10T09:00:00Z",
+      "visitCount": 9
+    },
+    {
+      "guid": "bm-0157",
+      "title": "Ten mistakes with code review",
+      "uri": "https://nextjs.org/code-review-157",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-11-06T10:00:00Z",
+      "visitCount": 14
+    },
+    {
+      "guid": "bm-0158",
+      "title": "Notes on CSS grid",
+      "uri": "https://github.com/css-grid-158",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-03-05T22:00:00Z",
+      "visitCount": 10
+    },
+    {
+      "guid": "bm-0159",
+      "title": "Getting started with code review",
+      "uri": "https://martinfowler.com/code-review-159",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-05-21T22:00:00Z",
+      "visitCount": 34
+    },
+    {
+      "guid": "bm-0160",
+      "title": "Understanding web performance",
+      "uri": "https://www.typescriptlang.org/web-performance-160?utm_source=newsletter&utm_medium=email",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-07-05T18:00:00Z",
+      "visitCount": 16
+    },
+    {
+      "guid": "bm-0161",
+      "title": "Understanding TypeScript generics",
+      "uri": "https://joshwcomeau.com/typescript-generics-161?utm_source=rss&utm_medium=social",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-05-07T12:00:00Z",
+      "visitCount": 24
+    },
+    {
+      "guid": "bm-0162",
+      "title": "A guide to CSS grid",
+      "uri": "https://dev.to/css-grid-162?utm_source=twitter&utm_medium=email",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-08-14T23:00:00Z",
+      "visitCount": 4
+    },
+    {
+      "guid": "bm-0163",
+      "title": "Notes on CSS grid",
+      "uri": "https://web.dev/css-grid-163",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-11-14T07:00:00Z",
+      "visitCount": 37
+    },
+    {
+      "guid": "bm-0164",
+      "title": "Getting started with pagination",
+      "uri": "https://react.dev/pagination-164",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-04-02T04:00:00Z",
+      "visitCount": 17
+    },
+    {
+      "guid": "bm-0165",
+      "title": "A guide to rate limiting",
+      "uri": "https://www.nextjs.org/rate-limiting-165",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-01-10T12:00:00Z",
+      "visitCount": 36
+    },
+    {
+      "guid": "bm-0166",
+      "title": "The case against monorepos",
+      "uri": "https://github.com/monorepos-166?utm_source=twitter&utm_medium=email",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-06-10T13:00:00Z",
+      "visitCount": 9
+    },
+    {
+      "guid": "bm-0167",
+      "title": "Rethinking state management",
+      "uri": "https://typescriptlang.org/state-management-167?utm_source=rss&utm_medium=social",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-10-04T22:00:00Z",
+      "visitCount": 9
+    },
+    {
+      "guid": "bm-0168",
+      "title": "A practical look at monorepos",
+      "uri": "https://joshwcomeau.com/monorepos-168",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-02-13T05:00:00Z",
+      "visitCount": 12
+    },
+    {
+      "guid": "bm-0169",
+      "title": "Why we moved to dark mode",
+      "uri": "https://dev.to/dark-mode-169",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-03-16T09:00:00Z",
+      "visitCount": 29
+    },
+    {
+      "guid": "bm-0170",
+      "title": "The case against API design",
+      "uri": "https://github.com/api-design-170",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-07-07T10:00:00Z",
+      "visitCount": 4
+    },
+    {
+      "guid": "bm-0171",
+      "title": "Rethinking TypeScript generics",
+      "uri": "https://www.stackoverflow.com/typescript-generics-171?utm_source=rss&utm_medium=social",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-09-01T00:00:00Z",
+      "visitCount": 22
+    },
+    {
+      "guid": "bm-0172",
+      "title": "Deep dive: server components",
+      "uri": "https://smashingmagazine.com/server-components-172",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-02-10T22:00:00Z",
+      "visitCount": 4
+    },
+    {
+      "guid": "bm-0173",
+      "title": "Rethinking feature flags",
+      "uri": "https://www.typescriptlang.org/feature-flags-173",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-06-03T00:00:00Z",
+      "visitCount": 28
+    },
+    {
+      "guid": "bm-0174",
+      "title": "Rethinking auth flows",
+      "uri": "https://css-tricks.com/auth-flows-174",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-07-04T06:00:00Z",
+      "visitCount": 34
+    },
+    {
+      "guid": "bm-0175",
+      "title": "Why we moved to state management",
+      "uri": "https://web.dev/state-management-175",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-10-11T20:00:00Z",
+      "visitCount": 38
+    },
+    {
+      "guid": "bm-0176",
+      "title": "The case against monorepos",
+      "uri": "https://dev.to/monorepos-176",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-03-13T10:00:00Z",
+      "visitCount": 1
+    },
+    {
+      "guid": "bm-0177",
+      "title": "A guide to monorepos",
+      "uri": "https://medium.com/monorepos-177?utm_source=rss&utm_medium=email",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-10-23T22:00:00Z",
+      "visitCount": 19
+    },
+    {
+      "guid": "bm-0178",
+      "title": "A practical look at error boundaries",
+      "uri": "https://nextjs.org/error-boundaries-178?utm_source=twitter&utm_medium=email",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-05-14T18:00:00Z",
+      "visitCount": 34
+    },
+    {
+      "guid": "bm-0179",
+      "title": "Notes on rate limiting",
+      "uri": "https://overreacted.io/rate-limiting-179?utm_source=twitter&utm_medium=email",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-01-05T06:00:00Z",
+      "visitCount": 39
+    },
+    {
+      "guid": "bm-0180",
+      "title": "Understanding auth flows",
+      "uri": "https://vercel.com/auth-flows-180?utm_source=twitter&utm_medium=email",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-03-16T21:00:00Z",
+      "visitCount": 23
+    },
+    {
+      "guid": "bm-0181",
+      "title": "Getting started with TypeScript generics",
+      "uri": "https://nextjs.org/typescript-generics-181",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-01-10T09:00:00Z",
+      "visitCount": 14
+    },
+    {
+      "guid": "bm-0182",
+      "title": "Rethinking web performance",
+      "uri": "https://www.nextjs.org/web-performance-182",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-05-23T12:00:00Z",
+      "visitCount": 25
+    },
+    {
+      "guid": "bm-0183",
+      "title": "The case against web performance",
+      "uri": "https://smashingmagazine.com/web-performance-183?utm_source=twitter&utm_medium=social",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-11-26T05:00:00Z",
+      "visitCount": 37
+    },
+    {
+      "guid": "bm-0184",
+      "title": "Why we moved to testing hooks",
+      "uri": "https://overreacted.io/testing-hooks-184",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-04-22T22:00:00Z",
+      "visitCount": 37
+    },
+    {
+      "guid": "bm-0185",
+      "title": "Why we moved to pagination",
+      "uri": "https://news.ycombinator.com/pagination-185?utm_source=rss&utm_medium=social",
+      "folder": "Other bookmarks/Later",
+      "dateAdded": "2026-04-08T11:00:00Z",
+      "visitCount": 19
+    },
+    {
+      "guid": "bm-0186",
+      "title": "A guide to code review",
+      "uri": "https://martinfowler.com/code-review-186",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-09-19T17:00:00Z",
+      "visitCount": 29
+    },
+    {
+      "guid": "bm-0187",
+      "title": "Ten mistakes with API design",
+      "uri": "https://www.kentcdodds.com/api-design-187?utm_source=twitter&utm_medium=social",
+      "folder": "Mobile bookmarks",
+      "dateAdded": "2026-11-28T21:00:00Z",
+      "visitCount": 31
+    },
+    {
+      "guid": "bm-0188",
+      "title": "Notes on git rebase",
+      "uri": "https://medium.com/git-rebase-188",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-03-09T22:00:00Z",
+      "visitCount": 11
+    },
+    {
+      "guid": "bm-0189",
+      "title": "Rethinking git rebase",
+      "uri": "https://www.a11yproject.com/git-rebase-189",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-07-03T07:00:00Z",
+      "visitCount": 1
+    },
+    {
+      "guid": "bm-0190",
+      "title": "Why we moved to pagination",
+      "uri": "https://typescriptlang.org/pagination-190",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-01-15T00:00:00Z",
+      "visitCount": 16
+    },
+    {
+      "guid": "bm-0191",
+      "title": "Ten mistakes with API design",
+      "uri": "https://typescriptlang.org/api-design-191?utm_source=twitter&utm_medium=email",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-07-23T04:00:00Z",
+      "visitCount": 20
+    },
+    {
+      "guid": "bm-0192",
+      "title": "Why we moved to error boundaries",
+      "uri": "https://medium.com/error-boundaries-192",
+      "folder": "Other bookmarks/Work",
+      "dateAdded": "2026-06-04T05:00:00Z",
+      "visitCount": 3
+    },
+    {
+      "guid": "bm-0193",
+      "title": "Ten mistakes with CSS grid",
+      "uri": "https://www.stackoverflow.com/css-grid-193",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-08-20T06:00:00Z",
+      "visitCount": 16
+    },
+    {
+      "guid": "bm-0194",
+      "title": "Why we moved to monorepos",
+      "uri": "https://nodejs.org/monorepos-194",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-11-04T12:00:00Z",
+      "visitCount": 5
+    },
+    {
+      "guid": "bm-0195",
+      "title": "Why we moved to code review",
+      "uri": "https://www.nextjs.org/code-review-195",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-11-16T19:00:00Z",
+      "visitCount": 12
+    },
+    {
+      "guid": "bm-0196",
+      "title": "Getting started with database indexes",
+      "uri": "https://news.ycombinator.com/database-indexes-196",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-09-21T20:00:00Z",
+      "visitCount": 37
+    },
+    {
+      "guid": "bm-0197",
+      "title": "A guide to git rebase",
+      "uri": "https://www.nextjs.org/git-rebase-197",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-02-21T10:00:00Z",
+      "visitCount": 22
+    },
+    {
+      "guid": "bm-0198",
+      "title": "The case against accessible forms",
+      "uri": "https://overreacted.io/accessible-forms-198",
+      "folder": "Bookmarks bar/Reading",
+      "dateAdded": "2026-09-26T18:00:00Z",
+      "visitCount": 27
+    },
+    {
+      "guid": "bm-0199",
+      "title": "Rethinking TypeScript generics",
+      "uri": "https://dev.to/typescript-generics-199",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-09-27T06:00:00Z",
+      "visitCount": 29
+    },
+    {
+      "guid": "bm-0200",
+      "title": "Notes on server components",
+      "uri": "https://react.dev/server-components-200?utm_source=newsletter&utm_medium=social",
+      "folder": "Bookmarks bar/Dev",
+      "dateAdded": "2026-07-27T06:00:00Z",
+      "visitCount": 11
+    }
+  ]
+}
