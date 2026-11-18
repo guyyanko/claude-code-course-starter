@@ -1,0 +1,9 @@
+[
+  { "id": "1", "url": "https://code.claude.com/docs/en/how-claude-code-works", "title": "How Claude Code works", "tags": ["claude-code"], "addedAt": "2026-11-10", "read": false },
+  { "id": "2", "url": "https://code.claude.com/docs/en/context-window", "title": "Explore the context window", "tags": ["claude-code"], "addedAt": "2026-11-09", "read": false },
+  { "id": "3", "url": "https://cli.github.com/manual/gh_pr_create", "title": "gh pr create", "tags": ["git", "github"], "addedAt": "2026-11-05", "read": true },
+  { "id": "4", "url": "https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell", "title": "Branches in a nutshell", "tags": ["git"], "addedAt": "2026-11-03", "read": false },
+  { "id": "5", "url": "https://nextjs.org/docs/app/getting-started", "title": "Next.js: getting started", "tags": ["nextjs"], "addedAt": "2026-10-28", "read": true },
+  { "id": "6", "url": "https://vitest.dev/guide/", "title": "Vitest guide", "tags": ["testing"], "addedAt": "2026-10-20", "read": false },
+  { "id": "7", "url": "https://developer.mozilla.org/en-US/docs/Web/API/URL", "title": "The URL API", "tags": [], "addedAt": "2026-10-12", "read": false }
+]

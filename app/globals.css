@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  line-height: 1.5;
+  color: #1d2026;
+  background: #f6f5f1;
+}
+
+main {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 48px 16px;
+}
+
+a {
+  color: #c2410c;
+}
+
+.muted {
+  color: #6b6f78;
+}
+
+.read a {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
